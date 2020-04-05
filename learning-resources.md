@@ -4,7 +4,7 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 https://github.com/tuvtran/project-based-learning#rust
 
-https://cheat.rs
+https://cheats.rs/
 
 https://github.com/rust-lang/rustlings
 
